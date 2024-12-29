@@ -1,4 +1,5 @@
 duckduckgo-search
+phi
 fastapi
 uvicorn
 groq
